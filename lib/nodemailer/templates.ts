@@ -97,7 +97,7 @@ text-align: center !important;
 <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="width:100%;margin-bottom:40px;">
 <tr>
 <td align="center">
-<a href="https://stock-market-dev.vercel.app/" style="display:block;width:100%;background:linear-gradient(135deg,#FDD458 0%,#E8BA40 100%);color:#000;text-decoration:none;padding:16px 32px;border-radius:8px;font-size:16px;font-weight:500;text-align:center;">
+<a href="https://stock-market-appai.vercel.app/watchlist" style="display:block;width:100%;background:linear-gradient(135deg,#FDD458 0%,#E8BA40 100%);color:#000;text-decoration:none;padding:16px 32px;border-radius:8px;font-size:16px;font-weight:500;text-align:center;">
 Перейти в панель управления
 </a>
 </td>
@@ -107,7 +107,7 @@ text-align: center !important;
 <p style="margin-top:40px;font-size:14px;color:#CCDADC;text-align:center;">
 Signalist HQ, 200 Market Street, San Francisco, CA 94105<br>
 <a href="#" style="color:#CCDADC;text-decoration:underline;">Отписаться</a> |
-<a href="https://stock-market-dev.vercel.app/" style="color:#CCDADC;text-decoration:underline;">Открыть Signalist</a><br>
+<a href="https://stock-market-appai.vercel.app/watchlist" style="color:#CCDADC;text-decoration:underline;">Открыть Signalist</a><br>
 © 2026 Signalist
 </p>
 
@@ -207,7 +207,7 @@ line-height: 1.3 !important;
 
 <p style="margin:0 0 10px 0;font-size:14px;color:#CCDADC;">
 <a href="#" style="color:#CCDADC;text-decoration:underline;">Отписаться</a> |
-<a href="https://stock-market-dev.vercel.app/" style="color:#CCDADC;text-decoration:underline;">Открыть Signalist</a>
+<a href="https://stock-market-appai.vercel.app/watchlist" style="color:#CCDADC;text-decoration:underline;">Открыть Signalist</a>
 </p>
 
 <p style="margin:0;font-size:14px;color:#CCDADC;">
@@ -338,7 +338,7 @@ border: 1px solid #374151 !important;
 <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="margin-bottom:30px;">
 <tr>
 <td align="center">
-<a href="https://stock-market-dev.vercel.app/" style="display:block;width:100%;background-color:#E8BA40;color:#000;text-decoration:none;padding:16px 32px;border-radius:8px;font-size:16px;font-weight:500;text-align:center;">
+<a href="https://stock-market-appai.vercel.app/watchlist" style="display:block;width:100%;background-color:#E8BA40;color:#000;text-decoration:none;padding:16px 32px;border-radius:8px;font-size:16px;font-weight:500;text-align:center;">
 Открыть панель управления
 </a>
 </td>
@@ -352,7 +352,7 @@ border: 1px solid #374151 !important;
 
 <p style="margin:0 0 10px 0;font-size:14px;color:#CCDADC;">
 <a href="#" style="color:#CCDADC;text-decoration:underline;">Отписаться</a> |
-<a href="https://stock-market-dev.vercel.app/" style="color:#CCDADC;text-decoration:underline;">Открыть Signalist</a>
+<a href="https://stock-market-appai.vercel.app/watchlist" style="color:#CCDADC;text-decoration:underline;">Открыть Signalist</a>
 </p>
 
 <p style="margin:0;font-size:14px;color:#CCDADC;">
@@ -483,7 +483,7 @@ border: 1px solid #374151 !important;
 <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="margin-bottom:30px;">
 <tr>
 <td align="center">
-<a href="https://stock-market-dev.vercel.app/" style="display:block;width:100%;background-color:#E8BA40;color:#000;text-decoration:none;padding:16px 32px;border-radius:8px;font-size:16px;font-weight:500;text-align:center;">
+<a href="https://stock-market-appai.vercel.app/watchlist" style="display:block;width:100%;background-color:#E8BA40;color:#000;text-decoration:none;padding:16px 32px;border-radius:8px;font-size:16px;font-weight:500;text-align:center;">
 Открыть панель управления
 </a>
 </td>
@@ -497,7 +497,7 @@ border: 1px solid #374151 !important;
 
 <p style="margin:0 0 10px 0;font-size:14px;color:#CCDADC;">
 <a href="#" style="color:#CCDADC;text-decoration:underline;">Отписаться</a> |
-<a href="https://stock-market-dev.vercel.app/" style="color:#CCDADC;text-decoration:underline;">Открыть Signalist</a>
+<a href="https://stock-market-appai.vercel.app/watchlist" style="color:#CCDADC;text-decoration:underline;">Открыть Signalist</a>
 </p>
 
 <p style="margin:0;font-size:14px;color:#CCDADC;">
@@ -700,7 +700,7 @@ export const VOLUME_ALERT_EMAIL_TEMPLATE = `<!DOCTYPE html>
                             <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="margin-bottom: 30px;">
                                 <tr>
                                     <td align="center">
-                                        <a href="https://stock-market-dev.vercel.app/" style="display: inline-block; background-color: #E8BA40; color: #ffffff; text-decoration: none; padding: 14px 28px; border-radius: 8px; font-size: 16px; font-weight: 500; line-height: 1;">
+                                        <a href="https://stock-market-appai.vercel.app/watchlist" style="display: inline-block; background-color: #E8BA40; color: #ffffff; text-decoration: none; padding: 14px 28px; border-radius: 8px; font-size: 16px; font-weight: 500; line-height: 1;">
                                             View Dashboard
                                         </a>
                                     </td>
@@ -995,7 +995,7 @@ export const STOCK_NEWS_EMAIL_TEMPLATE = `
 
               <div style="text-align:center;margin-top:40px;">
                 <a
-                  href="https://stock-market-dev.vercel.app/"
+                  href="https://stock-market-appai.vercel.app/watchlist"
                   style="display:block;width:100%;background:#E8BA40;color:#000000 !important;text-decoration:none;padding:16px 32px;border-radius:8px;font-size:16px;font-weight:500;box-sizing:border-box;"
                 >
                   Открыть Signalist
@@ -1008,7 +1008,7 @@ export const STOCK_NEWS_EMAIL_TEMPLATE = `
                 </p>
                 <p style="margin:0 0 10px 0;font-size:14px;line-height:1.5;color:#CCDADC;">
                   <a href="#" style="color:#CCDADC !important;text-decoration:underline;">Отписаться</a> |
-                  <a href="https://stock-market-dev.vercel.app/" style="color:#CCDADC !important;text-decoration:underline;">Открыть Signalist</a>
+                  <a href="https://stock-market-appai.vercel.app/watchlist" style="color:#CCDADC !important;text-decoration:underline;">Открыть Signalist</a>
                 </p>
                 <p style="margin:0;font-size:14px;line-height:1.5;color:#CCDADC;">
                   © 2026 Signalist
