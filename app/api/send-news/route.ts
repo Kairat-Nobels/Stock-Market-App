@@ -2,6 +2,7 @@ import { inngest } from "@/lib/inngest/client";
 import { NextResponse } from "next/server";
 import { headers } from "next/headers";
 import { auth } from "@/lib/better-auth/auth";
+export const dynamic = 'force-dynamic';
 
 export async function POST(req: Request) {
   try {
